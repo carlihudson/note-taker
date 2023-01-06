@@ -10,7 +10,7 @@ const { notes } = require('./db/db.json');
 
 
 const app = express();
-const PORT = process.env.port || 3001;
+const PORT = server.listen(process.env.PORT || 3000);
 
 // middleware
 app.use(express.static('public'));
