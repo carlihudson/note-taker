@@ -11,7 +11,7 @@
   - [License](#license)
 
    ## Link
-  You can access the application at 
+  You can access the application at https://carli-hudson-note-taker.herokuapp.com/  
   
   ## Usage
   This application could be used by anyone with access to a device that has internet, and can be used for any projects for school, work, or at home. When the user clicks the link, they'll be taken to a homepage with a button to get started. 
